@@ -1,9 +1,9 @@
-# Test-EPITECH
+# Python Star Program
 Test technique pour intégrer EPITECH
 
 Aziz Thioune (juniorthioune@gmail.com) 
 
-Test EPITECH Mars 2021 
+A program called star that displays a star, based on its given size.
 
 Langage : Python 
 
