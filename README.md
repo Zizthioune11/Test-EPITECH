@@ -1,6 +1,4 @@
 # Python Star Program
-Test technique pour intégrer EPITECH
-
 Aziz Thioune (juniorthioune@gmail.com) 
 
 A program called star that displays a star, based on its given size.
